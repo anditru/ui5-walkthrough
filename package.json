@@ -1,0 +1,8 @@
+{
+  "name": "walkthrough",
+  "version": "1.0.0",
+  "description": "Basis for UI5 Walkthrough",
+  "scripts": {
+    "start": "ui5 serve --open index.html"
+  }
+}
